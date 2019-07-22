@@ -1,4 +1,4 @@
-# Wrangling-and-Analysing-WeRateDogs
+# Wrangling and Analysing WeRateDogs 
 This is a project aimed at performing various data wrangling actions that get the right data from the data source. 
 I had to <b>gather, assess the data and clean</b> it so that the analysis could come out clean with no discrepency. 
 There were many tidiness and quality issues with the data gathered. This was cleaned up.
